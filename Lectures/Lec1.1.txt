@@ -4,3 +4,5 @@
 4.git branch -M main
 5.git remote add origin https://github.com/SangatiNithyaSai/JavaAngularFSCapgemini.git
 6.git push -u origin main
+
+Run 2,3,6 everytime
